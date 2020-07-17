@@ -3384,37 +3384,33 @@ Twentieth Century</a></li>
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(132).pdf" style="text-decoration:none;">The German Right in the Weimar Republic: Studies in the History of German Conservatism, Nationalism, and Antisemitism</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(133).pdf" style="text-decoration:none;">Epidemiology: Key to Prevention</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(134).pdf" style="text-decoration:none;">Basic Concepts in Statistics and Epidemiology</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(135).pdf" style="text-decoration:none;">A Dictionary of Epidemiology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(133).pdf" style="text-decoration:none;">The Gestapo: Power and Terror in the Third Reich</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(134).pdf" style="text-decoration:none;">The Ghosts of Berlin: Confronting German History in the Urban Landscape</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(135).pdf" style="text-decoration:none;">Himmler Brothers: A German Family History</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(136).pdf" style="text-decoration:none;">Epidemiological Research:
-An Introduction</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(136).pdf" style="text-decoration:none;">The Historical Experience in German Drama</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(137).pdf" style="text-decoration:none;">Exercises in Epidemiology: Applying Principles and Methods</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(137).pdf" style="text-decoration:none;">The Histories of a Medieval German City, Worms C. 1000-c. 1300</a></li>
 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(138).pdf" style="text-decoration:none;">Biostatistics and Computer-based Analysis of Health Data using Stata</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(138).pdf" style="text-decoration:none;">The History and Science
+of the Manhattan Project</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(139).pdf" style="text-decoration:none;"> Miraculous Plagues: 
-An Epidemiology of Early New England Narrative</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(140).pdf" style="text-decoration:none;">Diseases of Poverty: Epidemiology, Infectious Diseases, and Modern Plagues</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(141).pdf" style="text-decoration:none;">Gordis Epidemiology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(139).pdf" style="text-decoration:none;"> The History of Germany Greenwood Histories of the Modern Nations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(140).pdf" style="text-decoration:none;">The History of the Jewish People in the Age of Jesus Christ</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(141).pdf" style="text-decoration:none;">The History of the Stasi</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(142).pdf" style="text-decoration:none;">Handbook of Epidemiology</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(142).pdf" style="text-decoration:none;">The Holocaust: History and Memory</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(143).pdf" style="text-decoration:none;">Managerial Epidemiology for
-Health Care Organizations</a></li>
-
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(143).pdf" style="text-decoration:none;">The Honoured Society: The Secret History Of Italy's Most Powerful Mafia</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(144).pdf" style="text-decoration:none;">Statistical Methods
-in Genetic Epidemiology</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(145).pdf" style="text-decoration:none;">Epidemiologic Methods
-for the Study of Infectious Diseases</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(144).pdf" style="text-decoration:none;">The Indo-German Identification</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(145).pdf" style="text-decoration:none;">The Machines of Leonardo Da Vinci and Franz Reuleaux: Kinematics of Machines from the Renaissance to the 20th Century </a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(146).pdf" style="text-decoration:none;">Cancer Epidemiology:
 Principles and Methods</a></li>
