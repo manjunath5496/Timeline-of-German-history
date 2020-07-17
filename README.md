@@ -3320,81 +3320,69 @@ German Sociology</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(104).pdf" style="text-decoration:none;">Plain Women: Gender and Ritual in the Old Order River Brethren</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(105).pdf" style="text-decoration:none;">Communicable Disease Epidemiology and Control: A Global Perspective</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(106).pdf" style="text-decoration:none;">Epidemiology of
-Electromagnetic Fields</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(107).pdf" style="text-decoration:none;">Molecular Epidemiology
-of Microorganisms</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(105).pdf" style="text-decoration:none;">Projecting History
+German Non‹ction Cinema, 1967–2000</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(106).pdf" style="text-decoration:none;">Reading German History: A German Reading Course for Beginners</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(107).pdf" style="text-decoration:none;">Reason in History: A General Introduction to the Philosophy of History</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(108).pdf" style="text-decoration:none;">Dentistry, Dental Practice, and the Community</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(108).pdf" style="text-decoration:none;">Recasting German Identity</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(109).pdf" style="text-decoration:none;">Principles of epidemiology: an introduction to applied epidemiology and biostatistics</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(110).pdf" style="text-decoration:none;">Writing Dissertation and Grant Proposals: Epidemiology, Preventive Medicine and Biostatistics</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(111).pdf" style="text-decoration:none;">Environmental
-Epidemiology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(109).pdf" style="text-decoration:none;">Rereading German History: From unification to reunification, 1800–1996 </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(110).pdf" style="text-decoration:none;">Rethinking German History</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(111).pdf" style="text-decoration:none;">Rethinking Modern German History: Critical Social History as a Transatlantic Enterprise, 1945-1989</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(112).pdf" style="text-decoration:none;">Survival Analysis for Epidemiologic
-and Medical Research</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(112).pdf" style="text-decoration:none;">Right-Wing Terrorism in the 21st Century: The 'National Socialist Underground' and the history of terror from the Far-Right in Germany</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(113).pdf" style="text-decoration:none;">Methods of Clinical
-Epidemiology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(113).pdf" style="text-decoration:none;">The Age of German
+Idealism</a></li>
 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(114).pdf" style="text-decoration:none;">Epidemiology: A Very Short Introduction</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(114).pdf" style="text-decoration:none;">Socialist Modern: East German Everyday Culture and Politics</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(115).pdf" style="text-decoration:none;"> The Epidemiology of Heroin and
-Other Narcotics</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(116).pdf" style="text-decoration:none;">Applied Multilevel Analysis: A Practical Guide</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(115).pdf" style="text-decoration:none;"> Stasi: The Untold Story Of The East German Secret Police</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(116).pdf" style="text-decoration:none;">Technology:
+A World History</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(117).pdf" style="text-decoration:none;">Reproductive and
 Perinatal Epidemiology</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(118).pdf" style="text-decoration:none;">Concepts of Epidemiology: An integrated introduction to the ideas, theories, principles and methods of epidemiology</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(118).pdf" style="text-decoration:none;">The Battle of Britain: Five Months That Changed History</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(119).pdf" style="text-decoration:none;">Analytic Methods for Applied Epidemiology: Framework and Contingency Table Analysis</a></li>
-
-
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(120).pdf" style="text-decoration:none;">Oxford Handbook of
-Epidemiology for Clinicians</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(119).pdf" style="text-decoration:none;">The Course of German History: A survey of the development of German history since 1815</a></li>
 
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(121).pdf" style="text-decoration:none;">Basic
-epidemiology</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(120).pdf" style="text-decoration:none;">The Devils' Alliance: Hitler's Pact with Stalin, 1939-1941</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(122).pdf" style="text-decoration:none;">Biostatistical Methods
-in Epidemiology</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(123).pdf" style="text-decoration:none;">Statistical Methods in Environmental
-Epidemiology</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(121).pdf" style="text-decoration:none;">The Dialectical Imagination: A History of the Frankfurt School and the Institute of Social Research, 1923-1950</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(122).pdf" style="text-decoration:none;">The emperors : how Europe's greatest rulers were destroyed by World War I</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(123).pdf" style="text-decoration:none;">The Ethics of Seeing : Photography and Twentieth-Century German History</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(124).pdf" style="text-decoration:none;">Measurement in Medicine: 
 A Practical Guide</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(125).pdf" style="text-decoration:none;">Epidemiology of Mycotoxin Producing Fungi</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(125).pdf" style="text-decoration:none;">The Franco-Prussian War: The German Invasion of France 1870-1871 </a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(126).pdf" style="text-decoration:none;">A Historical Introduction to
-Mathematical Modeling of Infectious Diseases</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(126).pdf" style="text-decoration:none;">The Frankfurt School: Its History, Theories, and Political Significance Studies in Contemporary German Social Thought</a></li>
 
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(127).pdf" style="text-decoration:none;">Field Epidemiology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(127).pdf" style="text-decoration:none;">The German Conception of History: The National Tradition of Historical Thought from Herder to the Present</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(128).pdf" style="text-decoration:none;">An Introduction to
-Epidemiology for Health Professionals</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(128).pdf" style="text-decoration:none;">The German Economy in the
+Twentieth Century</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(129).pdf" style="text-decoration:none;">Experimental Techniques in
-Plant Disease Epidemiology</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(130).pdf" style="text-decoration:none;">Epidemiological Research:
-Terms and Concepts</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(131).pdf" style="text-decoration:none;">Epidemiology, Nursing
-and Healthcare</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(129).pdf" style="text-decoration:none;">The German Historical School</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(130).pdf" style="text-decoration:none;">The German Patient: Crisis and Recovery in Postwar Culture</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(131).pdf" style="text-decoration:none;">The German Problem Transformed</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(132).pdf" style="text-decoration:none;">Leadership Theories
-and Case Studies: An Epidemiological Perspective</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(132).pdf" style="text-decoration:none;">The German Right in the Weimar Republic: Studies in the History of German Conservatism, Nationalism, and Antisemitism</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(133).pdf" style="text-decoration:none;">Epidemiology: Key to Prevention</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(134).pdf" style="text-decoration:none;">Basic Concepts in Statistics and Epidemiology</a></li> 
