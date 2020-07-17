@@ -3533,7 +3533,7 @@ Eastern Europe: Essays on the History of their Social, Cultural and Political Re
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(185).pdf" style="text-decoration:none;">Unlikely History: The Changing German-Jewish Symbiosis, 1945–2000</a></li>
  
- 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(186).pdf" style="text-decoration:none;">Hitler's Espionage Machine: German Intelligence Agencies and Operations During World War II</a></li>
    
    </ul>
 
