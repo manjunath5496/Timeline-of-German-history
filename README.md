@@ -3424,6 +3424,40 @@ A History of German Indology</a></li>
 
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(149).pdf" style="text-decoration:none;">The Oxford Dictionary of Late Antiquity</a></li>
+ 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(150).pdf" style="text-decoration:none;">The People's Wars: Histories of Violence in the German Lands, 1820–1888</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(151).pdf" style="text-decoration:none;">The Revenge of Geography: What the Map Tells Us About Coming Conflicts and the Battle Against Fate</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(152).pdf" style="text-decoration:none;">The Routledge History of the Holocaust</a></li>
+
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(153).pdf" style="text-decoration:none;">The Seduction of Culture
+IN GERMAN HISTORY</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(154).pdf" style="text-decoration:none;">The Specter of Genocide </a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(155).pdf" style="text-decoration:none;">The Stigma of Surrender: German Prisoners, British Captors, and Manhood in the Great War and Beyond</a></li>
+
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(156).pdf" style="text-decoration:none;">The Storm of War:
+A New History of the Second World War</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(157).pdf" style="text-decoration:none;">The Tank Killers: A History of America's World War II Tank Destroyer Force</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(158).pdf" style="text-decoration:none;">The Third Reich Between Vision and Reality</a></li>
+ 
+ 
+ 
+ 
+ 
+ 
    
    </ul>
 
