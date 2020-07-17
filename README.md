@@ -3344,8 +3344,7 @@ Idealism</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(115).pdf" style="text-decoration:none;"> Stasi: The Untold Story Of The East German Secret Police</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(116).pdf" style="text-decoration:none;">Technology:
 A World History</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(117).pdf" style="text-decoration:none;">Reproductive and
-Perinatal Epidemiology</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(117).pdf" style="text-decoration:none;">A History of Religious Ideas: From Gautama Buddha to the Triumph of Christianity</a></li> 
  
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(118).pdf" style="text-decoration:none;">The Battle of Britain: Five Months That Changed History</a></li>
@@ -3363,8 +3362,7 @@ Perinatal Epidemiology</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(122).pdf" style="text-decoration:none;">The emperors : how Europe's greatest rulers were destroyed by World War I</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(123).pdf" style="text-decoration:none;">The Ethics of Seeing : Photography and Twentieth-Century German History</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(124).pdf" style="text-decoration:none;">Measurement in Medicine: 
-A Practical Guide</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(124).pdf" style="text-decoration:none;">Germans from the East: A Study of Their Migration, Resettlement and Subsequent Group History, Since 1945 </a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(125).pdf" style="text-decoration:none;">The Franco-Prussian War: The German Invasion of France 1870-1871 </a></li> 
  
 
