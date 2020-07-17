@@ -3500,7 +3500,40 @@ The West: Anti-Americanism in Media and Public Opinion in the Federal Republic o
  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(173).pdf" style="text-decoration:none;">Worldly Provincialism: 
 German Anthropology in the Age of Empire</a></li>
  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(174).pdf" style="text-decoration:none;">Writing the Amish: The Worlds of John A. Hostetler</a></li>
+
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(175).pdf" style="text-decoration:none;">5000 Years of Geometry:
+Mathematics in History and Culture</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(176).pdf" style="text-decoration:none;">Elsevier's Dictionary of Geography: in English, Russian, French, Spanish and German</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(177).pdf" style="text-decoration:none;">The Cambridge History of German Literature</a></li>
  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(178).pdf" style="text-decoration:none;">The German Invasion of Norway : April 1940</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(179).pdf" style="text-decoration:none;">The Search for the Perfect Language</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(180).pdf" style="text-decoration:none;">The German Lands and
+Eastern Europe: Essays on the History of their Social, Cultural and Political Relations</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(181).pdf" style="text-decoration:none;">Germany and the Second World War</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(182).pdf" style="text-decoration:none;">The History of the Jewish People in the Age of Jesus Christ: Volume 1</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(183).pdf" style="text-decoration:none;">The History of the Jewish People in the Age of Jesus Christ: Volume 2</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(184).pdf" style="text-decoration:none;">The World's Greatest Tanks: An Illustrated History</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(185).pdf" style="text-decoration:none;">Unlikely History: The Changing German-Jewish Symbiosis, 1945–2000</a></li>
  
  
    
