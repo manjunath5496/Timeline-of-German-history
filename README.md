@@ -3099,43 +3099,44 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(1).pdf" style="text-decoration:none;">Computational Epidemiology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(1).pdf" style="text-decoration:none;">Chelmno: A German Camp in History and Propaganda</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(2).pdf" style="text-decoration:none;">Applied Epidemiology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(2).pdf" style="text-decoration:none;">Histories of Two Hundred and Fifty-One Divisions of the German Army Which Participated in the War (1914-1918)</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(3).pdf" style="text-decoration:none;">Bayesian Disease Mapping: Hierarchical Modeling in Spatial Epidemiology</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(4).pdf" style="text-decoration:none;">Applied Epidemiologic Principles and Concepts</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(5).pdf" style="text-decoration:none;"> Viral Infections of Humans: Epidemiology and Control</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(6).pdf" style="text-decoration:none;">Antimicrobial Drug
-Resistance: Clinical and Epidemiological Aspects </a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(7).pdf" style="text-decoration:none;">AIDS Epidemiology: A Quantitative Approach</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(3).pdf" style="text-decoration:none;">A Century of War: 
+Anglo-American Oil Politics  and the New World Order</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(4).pdf" style="text-decoration:none;">A Concise
+History of Nazi Germany</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(5).pdf" style="text-decoration:none;"> A Critical History of German Film</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(6).pdf" style="text-decoration:none;">A Genius for Deception: How Cunning Helped the British Win Two World Wars</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(7).pdf" style="text-decoration:none;">A German Officer in Occupied Paris: The War Journals, 1941-1945</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(8).pdf" style="text-decoration:none;">Lilienfeld's Foundations of Epidemiology</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(9).pdf" style="text-decoration:none;">Epidemics: Models and Data using R</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(8).pdf" style="text-decoration:none;">A Linguistic History of English, Volume I: From Proto-Indo-European to Proto-Germanic</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(9).pdf" style="text-decoration:none;">A History of German Literature: From the beginnings to the present day</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(10).pdf" style="text-decoration:none;">Brain Arteriovenous Malformations: Pathogenesis, Epidemiology, Diagnosis, Treatment and Outcome</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(11).pdf" style="text-decoration:none;"> Temporal Network
-Epidemiology</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(12).pdf" style="text-decoration:none;">Encyclopedia of Epidemiology (Vol 1-2)</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(13).pdf" style="text-decoration:none;">Research Methods in Occupational Epidemiology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(10).pdf" style="text-decoration:none;">A History of
+Modern Germany: 1871 to Present</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(11).pdf" style="text-decoration:none;"> A History of Pagan Europe</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(12).pdf" style="text-decoration:none;">A History of Poetics: 
+German Scholary Aesthetics and Poetics in International Context, 1770-1960</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(13).pdf" style="text-decoration:none;">A History of the German Language through Texts</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(14).pdf" style="text-decoration:none;">Multivariate Methods
-in Epidemiology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(14).pdf" style="text-decoration:none;">The Most Valuable Asset of the Reich: A History of the German National Railway</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(15).pdf" style="text-decoration:none;">Clinical Epidemiology: The Essentials</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(15).pdf" style="text-decoration:none;">A People's History of the German Revolution</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(16).pdf" style="text-decoration:none;">Introduction to Epidemiology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(16).pdf" style="text-decoration:none;">A Political History of the Editions of Marx and Engels's "German Ideology Manuscripts"</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(17).pdf" style="text-decoration:none;">Epidemiology for public health practice</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(17).pdf" style="text-decoration:none;">A Short History
+of German Philosophy</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(18).pdf" style="text-decoration:none;">Textbook of Epidemiology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(18).pdf" style="text-decoration:none;">A Short History of the German Language</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(19).pdf" style="text-decoration:none;">Modern Epidemiology </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(19).pdf" style="text-decoration:none;">A Modern History of German Criminal Law </a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(20).pdf" style="text-decoration:none;">Obesity, Epidemiology, Pathophysiology,
-and Prevention</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(20).pdf" style="text-decoration:none;">A Brief History of Germany</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(21).pdf" style="text-decoration:none;">Statistical Models in Epidemiology</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(22).pdf" style="text-decoration:none;">Jekel's Epidemiology, Biostatistics,
