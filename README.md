@@ -3455,6 +3455,51 @@ A New History of the Second World War</a></li>
  
  
  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(159).pdf" style="text-decoration:none;">The Third Reich: A History of Nazi Germany</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(160).pdf" style="text-decoration:none;">The Unity of Mystical
+Traditions: The Transformation of Consciousness in Tibetan and German Mysticism </a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(161).pdf" style="text-decoration:none;">The War in the West: A New History, the Allies Fight Back 1941-43</a></li>
+
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(162).pdf" style="text-decoration:none;">The Wehrmacht's Last Stand: the German Campaigns of 1944–1945</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(163).pdf" style="text-decoration:none;">The World's Greatest Military Aircraft: An Illustrated History</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(164).pdf" style="text-decoration:none;">Viking Panzers: The German SS 5th Tank Regiment in the East in World War II</a></li>
+ 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(165).pdf" style="text-decoration:none;"> Maria orsic, the woman who originated and created earth's first ufos</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(166).pdf" style="text-decoration:none;">West Germans Against
+The West: Anti-Americanism in Media and Public Opinion in the Federal Republic of Germany 1949–1968</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(167).pdf" style="text-decoration:none;">When Titans Clashed: How the Red Army Stopped Hitler</a></li>
+
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(168).pdf" style="text-decoration:none;">WITH THE HAND: A Cultural History of Masturbation</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(169).pdf" style="text-decoration:none;">Word Origins: The Hidden Histories of English Words from A to Z </a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(170).pdf" style="text-decoration:none;">Words Cannot Be Found: German Colonial Rule in Namibia: An Annotated Reprint of the 1918 Blue Book</a></li>
+
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(171).pdf" style="text-decoration:none;">World War II for Kids: A History with 21 Activities</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(172).pdf" style="text-decoration:none;">World War II trucks and tanks</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(173).pdf" style="text-decoration:none;">Worldly Provincialism: 
+German Anthropology in the Age of Empire</a></li>
+ 
  
  
  
