@@ -3290,39 +3290,35 @@ History and Philosophy</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(90).pdf" style="text-decoration:none;">Life and Death in a German Town: Osnabrück from the Weimar Republic to World War II and Beyond</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(91).pdf" style="text-decoration:none;">Statistical Thinking in Epidemiology </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(91).pdf" style="text-decoration:none;">Little Words: Their History, Phonology, Syntax, Semantics, Pragmatics, and Acquisition </a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(92).pdf" style="text-decoration:none;">Epidemiology and the
-People's Health</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(92).pdf" style="text-decoration:none;">Medicine and the German Jews: A History</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(93).pdf" style="text-decoration:none;">Applied Longitudinal Data Analysis for Epidemiology: A Practical Guide</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(94).pdf" style="text-decoration:none;">Outbreak Investigations
-Around the World: Case Studies in Infectious Disease Field Epidemiology</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(95).pdf" style="text-decoration:none;">Clinical Epidemiology: How to Do Clinical Practice Research</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(93).pdf" style="text-decoration:none;">Nazi Cinema as Enchantment</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(94).pdf" style="text-decoration:none;">Not So Plain as Black and White: Afro-German Culture and History, 1890-2000</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(95).pdf" style="text-decoration:none;">Order in Chaos: The Memoirs of General of Panzer Troops Hermann Balck</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(96).pdf" style="text-decoration:none;">Treating Mental Illness and
-Behavior Disorders in Children and Adults With Mental Retardation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(96).pdf" style="text-decoration:none;">Other Germans: Black Germans and the Politics of Race, Gender, and Memory in the Third Reich</a></li>
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(97).pdf" style="text-decoration:none;">Mathematical Models
-in Population Biology and Epidemiology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(97).pdf" style="text-decoration:none;">Other Losses: The Shocking Truth Behind the Mass Deaths Of Disarmed German Soldiers And Civilians Under General Eisenhower's Command</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(98).pdf" style="text-decoration:none;">Forensic
-Epidemiology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(98).pdf" style="text-decoration:none;">Pandemic 1918: Eyewitness Accounts from the Greatest Medical Holocaust in Modern History</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(99).pdf" style="text-decoration:none;">Conduct and Oppositional Defiant Disorders: Epidemiology, Risk Factors, and Treatment</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(100).pdf" style="text-decoration:none;">Reproductive Epidemiology: Principles and Methods</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(101).pdf" style="text-decoration:none;">Epidemiology: An Introduction</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(99).pdf" style="text-decoration:none;">Panzer Aces III: German Tank Commanders in Combat in World War II</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(100).pdf" style="text-decoration:none;">Panzers in the Sand: The History of Panzer-Regiment 5</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(101).pdf" style="text-decoration:none;">Paul the Apostle of Jesus Christ, His Life and Work, His Epistles and His Doctrine</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(102).pdf" style="text-decoration:none;">Rethinking Social Epidemiology</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(102).pdf" style="text-decoration:none;">A Philosophical History of
+German Sociology</a></li>
 
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(103).pdf" style="text-decoration:none;">A Pocket Guide to Epidemiology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(103).pdf" style="text-decoration:none;">Philosophical Investigations</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(104).pdf" style="text-decoration:none;">Insulin Resistance and Cancer: Epidemiology, Cellular and Molecular Mechanisms and Clinical Implications</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(104).pdf" style="text-decoration:none;">Plain Women: Gender and Ritual in the Old Order River Brethren</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(105).pdf" style="text-decoration:none;">Communicable Disease Epidemiology and Control: A Global Perspective</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Timeline-of-German-history/blob/master/gkvk(106).pdf" style="text-decoration:none;">Epidemiology of
